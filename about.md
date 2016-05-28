@@ -12,9 +12,17 @@ Other than Rails, I have also dabbled into Android development - though I would 
 
 My life is not limited to programming though, I do other things as well like traveling, hiking, writing poetry and in general, catching up with my friends.
 
-Here is some more random trivia about me : <br>
+Here is some more random trivia about me -
 
-<br>
+<h3> Things I use in programming ? </h3>
+<ul>
+  <li>Ruby on rails</li>
+  <li>Coffeescript, Jquery</li>
+  <li>CSS, less</li>
+  <li>Postgresql, Mysql, PostGIS</li>
+  <li>Capistrano, AWS, linod.com</li>
+  <li>Android SDK, Facebook Android SDK, AWS for Android etc.</li>
+</ul>
 <h3> Favorite Books </h3>
 <ul>
 <li> Think and grow rich - Napolean Hill </li>
@@ -23,14 +31,10 @@ Here is some more random trivia about me : <br>
 <li> Zero to One - Peter Thiel </li>
 </ul>
 
-<br>
-
 <h3> Favorite Movies </h3> <br>
 <ul>
 <li>The Shawshank Redemption </li>
 <li>Bourne series: all the movies </li>
 <li>Harry Potter </li>
 <li>3 Idiots </li>
-</ul> 
-
-
+</ul>
