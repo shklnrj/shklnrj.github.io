@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Neeraj's Programming Blog
+email: shklnrj@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am Neeraj Shukla, a software engineer based out of Hyderabad, India. Here, I write about the things that I am learning and find interesting.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shklnrj.github.io" # the base hostname & protocol for your site
+twitter_username: lucknow_leopard
+github_username:  shklnrj
+
+# Build settings
+markdown: kramdown
