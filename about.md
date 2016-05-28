@@ -31,7 +31,7 @@ Here is some more random trivia about me -
 <li> Zero to One - Peter Thiel </li>
 </ul>
 
-<h3> Favorite Movies </h3> <br>
+<h3> Favorite Movies </h3>
 <ul>
 <li>The Shawshank Redemption </li>
 <li>Bourne series: all the movies </li>
