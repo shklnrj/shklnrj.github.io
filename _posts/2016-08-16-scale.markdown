@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scaling an application"
-date:   2016-05-28 11:27:32 +0530
+date:   2016-08-16 11:27:32 +0530
 categories: programming project-management
 ---
 One of the things that worries all the programmers is how would their website scale in the case in if it becomes overly popular.
