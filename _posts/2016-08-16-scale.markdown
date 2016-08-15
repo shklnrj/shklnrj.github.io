@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Scaling an application"
+date:   2016-05-28 11:27:32 +0530
+categories: programming project-management
+---
+One of the things that worries all the programmers is how would their website scale in the case in if it becomes overly popular.
+
+This is an interesting problem because scaling a website is actually a good problem to have. Most websites are nowhere near as used as their creators would like them to be used.And hence I think too many people spend an inordinate long time in thinking about a problem that they don't even have and may statistically not even have. This is because most people who start websites are inherently optimistic by nature and also there are so many engineers who build their own websites/apps who have been taught more about scaling websites in colleges and hence their natural thinking gravitates towards this issue which might be non-existent but they know about this.
+
+Here are some of my thoughts on this-
+
+<ol>
+<li>
+<em>Build for the stage </em> As someone who has written a lot of code, I must admit that pre-mature scaling is not really worth the time that you would spend. Start with a simple website without much to worry. As the beginning get a sturdy database such as POSTGres and move to the next step.
+</li>
+
+<li>
+<em>Database replication and backup </em> The next step is to get the database replication setup. In this stage you get a hot/cold replication system for your database. Get the snapshots of the database to maybe S3 so that you can get the database up in case something happens to both your servers. You can learn how to get the replication setup, resolve split brain issues and restore the whole setup from a S3 snapshot.
+</li>
+
+<li>
+<em>Scale out your services </em> In the next stage, you need to scale out your code, more for your development than for any other reason. You can do this by using engines in Rails. In the next stage you can have microservices setup, although there are also costs to that. You can use something like Apache Thrift to have the different services talk to each other.
+</li>
+
+<li> <em> Move out of relational database </em> There can reach a stage if you have a really successful B2C application that you can't use the relational database as efficiently as you can a NoSql database such as Cassandra or HBase. Evaluate this carefully based on your need.
+</li>
+
+<li> <em> Monitoring and alerting </em> Even with all the precautions, anything that can go wrong on a web application would go wrong and hence continuous monitoring of the application is necessary. You can use some open source monitoring tools such as Monit.
+</li>
+</ol>
