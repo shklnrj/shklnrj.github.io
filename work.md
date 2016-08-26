@@ -21,14 +21,14 @@ It is very important to have three things in a project that I work on before sta
 
 Using the above three points as the basis, here is something that I can provide and can not provide- <br>
 
-<h3> Can provide </h3> <br>
+<h3> Can provide </h3>
 <ul>
 <li> Time estimation of project once requirements are handled. Note that this is called scoping in software and may need me a couple of days to scope a project. This is a normal course in software engineering. This is because most of the code written in software development is new - if it was already there, we would just use it and hence no need of managing the project or estimating anything. </li>
 <li> Delivery of project on time, based solely on the initial specs agreed to and initial scoping done. If some features change mid-way, we might need to rescope the work.</li>
 <li> Tested software at the time of delivery </li>
 </ul>
 
-<h3> Can not provide </h3> <br>
+<h3> Can not provide </h3>
 <ul>
 <li> Unless I have agreed to long term software support, I can not provide support for software developed by me. I am usually engaged in new work most of the time. If you want long term support, please mention if beforehand and have a talk with me about it and costs associated with it. Companies provide support for the software they develop only if they charge a support fee. This is because time must be invested again in supporting the software and time is VALUABLE. </li>
 <li> Respond to random, untimed requests based on features - unless that time is mutually agreed in advance.</li>
