@@ -7,7 +7,7 @@ permalink: /work/
 
 From time to time I work on web based projects with clients who need custom software built for them. I would love to work on an interesting project with you if you have some good problem. I primary used Ruby on Rails for most software projects but I have also developed few Android applications.
 <br>
-It is very important to have three things in a project that I work on before starting. 
+It is very important to have three things in a project that I work on before starting. These I refer to as base requirements. 
 <br>
 
 <h3> Base requirements </h3>
